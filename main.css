@@ -1,0 +1,45 @@
+header{
+    background-color: red;
+    width: 100%;
+}
+footer{
+    background-color: seagreen;
+    width: 100%;
+}
+
+.tabel1_1{
+    background-color: red;
+}
+
+.tabel1_2{
+    background-color: blue;
+}
+
+.tabel1_3{
+    background-color: green;
+}
+
+.tabel1_4{
+    background-color: yellow;
+}
+
+.tabel3_1{
+    background-color: purple;
+}
+
+.tabel3_2{
+    background-color: orange;
+}
+
+.tabel3_3{
+    background-color: pink;
+}
+
+.tabel3_4{
+    background-color: cyan;
+}
+
+.img img{
+  width: 100px;
+  height: auto;
+}
